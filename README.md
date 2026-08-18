@@ -102,3 +102,9 @@ python -c "import cairosvg; cairosvg.svg2png(url='poster.svg', write_to='poster.
 ## 📄 License
 
 [MIT](LICENSE) © 2026 ai-poster-generator contributors
+
+---
+
+## 💖 Support
+
+Enjoying this? Please ⭐ star it, or [buy me a coffee ☕](https://afdian.com/a/dg1688) — support the AI automation journey. More on [ClawChat](https://clawling.com/u/usr_01KXT5GF70ESESJQZNB06AJQ9B).
